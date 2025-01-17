@@ -21,6 +21,17 @@
     7. To-Do List Integration
         Allow users to create to-do lists inside their notes. Each item will have a circle on the left side that can be checked to show a check mark and strike through the text.
 
+Order to add
+
+    1. Search Notes by Title
+    2. Enhanced Note Features
+    3. User Customization (Light and Dark Themes)
+    4. Voice Input (Microphone Usage)
+    5. Add Pictures to Notes
+    6. To-Do List Integration
+    7. Drawing Capability (Optional)
+
+
 Aesthetic Improvements to Consider First
 
     1. Mosaic Style Display
