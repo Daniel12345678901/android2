@@ -1,9 +1,9 @@
 # android2 Features to add
 
-    1. Search Notes by Title
+    1. Search Notes by Title (Feito)
         Allow users to search for notes by their title.
 
-    2. Enhanced Note Features
+    2. Enhanced Note Features (Feito)
         Add support for rich text formatting (bold, italics, underline, etc.).
 
     3. User Customization
